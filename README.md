@@ -1,6 +1,8 @@
 # Welcome to *robot*
 
-__*robot*__ -- ...
+__*robot*__ -- Habemus robot...
+
+# pioneer
 
 Copyright (c) 2016 Petr Vepřek
 
