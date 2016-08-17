@@ -8,3 +8,10 @@ gpio = {
     'Yellow LED': 20,
     'Green LED': 21
 }
+
+def main():
+    print("Configuration")
+    print("gpio =", gpio)
+
+if '__main__' == __name__:
+    main()
