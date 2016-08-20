@@ -1,6 +1,6 @@
 #!python3
 # Copyright (c) 2016 Petr Veprek
-"""configuration.py"""
+"""rpConfiguration.py"""
 
 gpio = {
     'Buzzer': 12,
@@ -8,3 +8,10 @@ gpio = {
     'Yellow LED': 20,
     'Green LED': 21
 }
+
+def main():
+    print("Configuration")
+    print("gpio =", gpio)
+
+if '__main__' == __name__:
+    main()
