@@ -1,6 +1,6 @@
 #!python3
 # Copyright (c) 2016 Petr Veprek
-"""configuration.py"""
+"""rpConfiguration.py"""
 
 gpio = {
     'Buzzer': 12,

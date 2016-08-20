@@ -1,11 +1,9 @@
 #!python3
 # Copyright (c) 2016 Petr Veprek
-"""led.py"""
-
-import configuration
+"""pioneer.py"""
 
 def main():
-    print("LED")
+    print("Pioneer")
 
 if '__main__' == __name__:
     main()
