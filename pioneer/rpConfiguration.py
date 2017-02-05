@@ -1,5 +1,5 @@
-#!python3
-# Copyright (c) 2016 Petr Veprek
+#!python3.6
+# Copyright © 2016-2017 Petr Vepřek
 """rpConfiguration.py"""
 
 gpio = {
