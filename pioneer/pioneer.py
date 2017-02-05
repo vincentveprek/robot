@@ -1,5 +1,5 @@
 #!python3.6
-# Copyright (c) 2016 Petr Veprek
+# Copyright © 2016-2017 Petr Vepřek
 """pioneer.py"""
 
 def main():

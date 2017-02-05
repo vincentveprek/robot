@@ -4,6 +4,6 @@ __*robot*__ -- Habemus robot...
 
 # pioneer
 
-Copyright (c) 2016 Petr Vepřek
+Copyright © 2016-2017 Petr Vepřek
 
 MIT License, see [`LICENSE`](./LICENSE) for further details.
